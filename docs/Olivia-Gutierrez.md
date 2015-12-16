@@ -3,3 +3,4 @@
 - Austin, TX
 - **CHEESE**
 - Weightlifting
+**favorite color:** blue
